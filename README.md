@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Titanic EDA Project
 
 ## Objective
@@ -23,7 +22,3 @@ Titanic Dataset from Kaggle.
 
 ## Author
 Devesh Vishwakarma
-=======
-# CodeAlpha_EDA_Titanic
-Exploratory Data Analysis (EDA) on Titanic Dataset using Python, Pandas and Matplotlib.
->>>>>>> df083f8aef579a19132e353a687a724b777ef79e
